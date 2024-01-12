@@ -15,3 +15,6 @@ Git pull is a command that allows you to fetch from and integrate with another r
 
 # Explain in simple terms git rebase and the command for it #
 The Git rebase command moves a branch to a new location at the head of another branch. The command for git rebase is git rebase --onto topicA~5 topicA~3 topicA
+
+# Explain in simple terms git cherry-pick and the command for it #
+git cherry-pick in git means choosing a commit from one branch and applying it to another branch. The command for git cherry-pick is git cherry-pick af02e0b
