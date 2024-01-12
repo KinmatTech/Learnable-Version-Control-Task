@@ -12,3 +12,6 @@ Git is a distributed version control system for tracking changes in source code 
 # Explain the difference between git fetch and git pull #
 Git fetch is a command that allows you to download objects from another repository.
 Git pull is a command that allows you to fetch from and integrate with another repository or local branch.
+
+# Explain in simple terms git rebase and the command for it #
+The Git rebase command moves a branch to a new location at the head of another branch. The command for git rebase is git rebase --onto topicA~5 topicA~3 topicA
