@@ -8,3 +8,7 @@ Git is a distributed version control system for tracking changes in source code 
 + Gitlab
 + Bitbucket
 + Gitbucket
+
+# Explain the difference between git fetch and git pull #
+Git fetch is a command that allows you to download objects from another repository.
+Git pull is a command that allows you to fetch from and integrate with another repository or local branch.
